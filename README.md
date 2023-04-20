@@ -5,7 +5,7 @@ Useful if you use [Bootstrap v5 CDN](https://getbootstrap.com/docs/5.2/getting-s
 In [Bootstrap 5 Docs](https://getbootstrap.com/docs/5.3/utilities/position/) you can find that translate middle classes are not set with responsive utility classes.
 If you need ***pure CSS*** classes you can use this repo and add these classes in your bootstrap.css file.
 
-You can just integrate these classes in the bootstrap.min.css file (*unminify it and look for each media query, insert these classes and [minify](https://www.cleancss.com/css-minify/) it again, or simply add them at the end of the file*) or copy them in your own style.css.
+You can just integrate these classes in the bootstrap.min.css file or copy them in your own style.css.
 
 An example of utility:
 
